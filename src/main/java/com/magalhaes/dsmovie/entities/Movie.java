@@ -63,7 +63,7 @@ public class Movie {
 			this.count = count;
 		}
 
-		public String getIamge() {
+		public String getImage() {
 			return image;
 		}
 
