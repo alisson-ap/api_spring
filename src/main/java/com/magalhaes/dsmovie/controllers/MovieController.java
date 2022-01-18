@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.magalhaes.dsmovie.dtp.MovieDTO;
+import com.magalhaes.dsmovie.dto.MovieDTO;
 import com.magalhaes.dsmovie.services.MovieService;
 
 @RestController

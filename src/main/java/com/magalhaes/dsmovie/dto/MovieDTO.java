@@ -1,4 +1,4 @@
-package com.magalhaes.dsmovie.dtp;
+package com.magalhaes.dsmovie.dto;
 
 import com.magalhaes.dsmovie.entities.Movie;
 
